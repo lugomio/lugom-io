@@ -1,3 +1,6 @@
 [submodule "projects/simple-music-player"]
 	path = projects/simple-music-player
 	url = https://github.com/lugomio/simple-music-player.git
+[submodule "projects/password-generator"]
+	path = projects/password-generator
+	url = https://github.com/lugomio/password-generator.git
