@@ -4,3 +4,6 @@
 [submodule "projects/password-generator"]
 	path = projects/password-generator
 	url = https://github.com/lugomio/password-generator.git
+[submodule "projects/drums-of-liberation"]
+	path = projects/drums-of-liberation
+	url = https://github.com/lugomio/drums-of-liberation.git
