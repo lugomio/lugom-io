@@ -7,3 +7,6 @@
 [submodule "projects/drums-of-liberation"]
 	path = projects/drums-of-liberation
 	url = https://github.com/lugomio/drums-of-liberation.git
+[submodule "projects/minimal-clock"]
+	path = projects/minimal-clock
+	url = https://github.com/lugomio/minimal-clock.git
