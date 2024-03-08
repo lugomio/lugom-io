@@ -10,3 +10,9 @@
 [submodule "projects/minimal-clock"]
 	path = projects/minimal-clock
 	url = https://github.com/lugomio/minimal-clock.git
+[submodule "expandable-gallery"]
+	path = expandable-gallery
+	url = https://github.com/lugomio/expandable-gallery.git
+[submodule "projects/expandable-gallery"]
+	path = projects/expandable-gallery
+	url = https://github.com/lugomio/expandable-gallery.git
