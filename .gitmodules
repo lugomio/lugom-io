@@ -19,3 +19,6 @@
 [submodule "projects/ajax-search-cities"]
 	path = projects/ajax-search-cities
 	url = https://github.com/lugomio/ajax-search-cities.git
+[submodule "projects/click-canvas"]
+	path = projects/click-canvas
+	url = https://github.com/lugomio/click-canvas.git
