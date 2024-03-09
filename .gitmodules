@@ -16,3 +16,6 @@
 [submodule "projects/expandable-gallery"]
 	path = projects/expandable-gallery
 	url = https://github.com/lugomio/expandable-gallery.git
+[submodule "projects/ajax-search-cities"]
+	path = projects/ajax-search-cities
+	url = https://github.com/lugomio/ajax-search-cities.git
