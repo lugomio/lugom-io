@@ -19,3 +19,6 @@
 [submodule "projects/click-canvas"]
 	path = projects/click-canvas
 	url = https://github.com/lugomio/click-canvas.git
+[submodule "projects/check-multiple-checkbox"]
+	path = projects/check-multiple-checkbox
+	url = https://github.com/lugomio/check-multiple-checkbox.git
