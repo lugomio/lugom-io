@@ -22,3 +22,6 @@
 [submodule "projects/check-multiple-checkbox"]
 	path = projects/check-multiple-checkbox
 	url = https://github.com/lugomio/check-multiple-checkbox.git
+[submodule "projects/video-player"]
+	path = projects/video-player
+	url = https://github.com/lugomio/video-player.git
