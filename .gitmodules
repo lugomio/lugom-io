@@ -25,3 +25,6 @@
 [submodule "projects/video-player"]
 	path = projects/video-player
 	url = https://github.com/lugomio/video-player.git
+[submodule "projects/to-do-list"]
+	path = projects/to-do-list
+	url = https://github.com/lugomio/to-do-list.git
