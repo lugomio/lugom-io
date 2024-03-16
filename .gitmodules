@@ -28,3 +28,6 @@
 [submodule "projects/to-do-list"]
 	path = projects/to-do-list
 	url = https://github.com/lugomio/to-do-list.git
+[submodule "projects/webcam-fun"]
+	path = projects/webcam-fun
+	url = https://github.com/lugomio/webcam-fun.git
