@@ -31,3 +31,6 @@
 [submodule "projects/webcam-fun"]
 	path = projects/webcam-fun
 	url = https://github.com/lugomio/webcam-fun.git
+[submodule "projects/browser-speech-recognition"]
+	path = projects/browser-speech-recognition
+	url = https://github.com/lugomio/browser-speech-recognition.git
