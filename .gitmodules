@@ -40,3 +40,6 @@
 [submodule "projects/follow-along-dropdown"]
 	path = projects/follow-along-dropdown
 	url = https://github.com/lugomio/follow-along-dropdown.git
+[submodule "projects/countdown-clock"]
+	path = projects/countdown-clock
+	url = https://github.com/lugomio/countdown-clock.git
