@@ -43,3 +43,6 @@
 [submodule "projects/countdown-clock"]
 	path = projects/countdown-clock
 	url = https://github.com/lugomio/countdown-clock.git
+[submodule "projects/whack-a-mole-game"]
+	path = projects/whack-a-mole-game
+	url = https://github.com/lugomio/whack-a-mole-game.git
