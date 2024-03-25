@@ -46,3 +46,6 @@
 [submodule "projects/whack-a-mole-game"]
 	path = projects/whack-a-mole-game
 	url = https://github.com/lugomio/whack-a-mole-game.git
+[submodule "projects/tic-tac-toe"]
+	path = projects/tic-tac-toe
+	url = https://github.com/lugomio/tic-tac-toe.git
