@@ -49,3 +49,6 @@
 [submodule "projects/tic-tac-toe"]
 	path = projects/tic-tac-toe
 	url = https://github.com/lugomio/tic-tac-toe.git
+[submodule "projects/super-links"]
+	path = projects/super-links
+	url = https://github.com/lugomio/super-links.git
