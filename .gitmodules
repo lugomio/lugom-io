@@ -52,3 +52,6 @@
 [submodule "projects/super-links"]
 	path = projects/super-links
 	url = https://github.com/lugomio/super-links.git
+[submodule "projects/photoblog"]
+	path = projects/photoblog
+	url = https://github.com/lugomio/photoblog.git
