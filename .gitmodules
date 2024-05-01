@@ -55,3 +55,6 @@
 [submodule "projects/photoblog"]
 	path = projects/photoblog
 	url = https://github.com/lugomio/photoblog.git
+[submodule "projects/github-favorites"]
+	path = projects/github-favorites
+	url = https://github.com/lugomio/github-favorites.git
