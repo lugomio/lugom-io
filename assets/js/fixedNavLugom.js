@@ -94,20 +94,15 @@ window.onload = () => {
                 display: none
             }
         </style>
-        <div id=fixedNavLugom><input checked id=fixedNavLugomCheckbox type=checkbox>
+        <div id=fixedNavLugom>
+            <input checked id=fixedNavLugomCheckbox type=checkbox>
             <label for=fixedNavLugomCheckbox>
                 <nav>
                     <ul>
-                        <li>
-                            <a href=/ title=Home><img alt="Icone de casa amarela"
-                                    src=https://lugom.io/assets/images/home-icon.png></a>
-                        <li><a href=/blog title=Blog>
-                                <img alt="Icone de folha amarela representando um blog"
-                                    src=https://lugom.io/assets/images/blog-icon.png></a>
-                        <li><a href=/projects title=Projetos><img alt="Icone de engrenagem amarela"
-                                    src=https://lugom.io/assets/images/projects-icon.png></a>
-                        <li><a href=/contact title=Contato><img alt="Icone de caderno de contato amarelo"
-                                    src=https://lugom.io/assets/images/contact-icon.png></a>
+                        <li><a href="https://lugom.io/" title="Home"><img alt="Icone de casa amarela" src="https://lugom.io/assets/images/home-icon.png"></a>
+                        <li><a href="https://lugom.io/blog" title="Blog"><img alt="Icone de folha amarela representando um blog" src="https://lugom.io/assets/images/blog-icon.png"></a>
+                        <li><a href="https://lugom.io/projects" title="Projetos"><img alt="Icone de engrenagem amarela" src="https://lugom.io/assets/images/projects-icon.png"></a>
+                        <li><a href="https://lugom.io/contact" title="Contato"><img alt="Icone de caderno de contato amarelo" src="https://lugom.io/assets/images/contact-icon.png"></a>
                     </ul>
                 </nav>
                 <img alt="icone lugomio" src=https://lugom.io/assets/images/favicon.png>
